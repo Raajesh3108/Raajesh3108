@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **Reactjs & Nodejs projects**
 - 🤔 I’m looking for help with **Domain of Open Source contribution**
-- 💬 Ask me about **javascript, Web**
+- 💬 Ask me about **any core skills**
 - 📫 How to reach me: **rajeshprajapati2003@gmail.com**
 - ⚡ Fun fact **Love to watch movie**
 
