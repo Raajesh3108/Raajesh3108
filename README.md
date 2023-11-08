@@ -5,11 +5,11 @@
 
 ## 💫 About Me:
 - 🔭 I’m currently working on **Collabrative Projects**
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **Reactjs & Nodejs projects**
 - 🤔 I’m looking for help with **Domain of Open Source contribution**
 - 💬 Ask me about **any core skills**
-- 📫 How to reach me: **rajeshprajapati2003@gmail.com**
+- 📫 How to reach me: **rajeshsp05@gmail.com**
 - ⚡ Fun fact **Love to watch movie**
 
 ## 🌐 Socials:
