@@ -4,13 +4,11 @@
 <h2 align="center"> A passionate Web Developer!! </h2>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Collabrative Projects**
+- 🔭 I’m currently pursuing my **Bachelor's in Computer Science & Engineering**
 - 🌱 I’m currently learning **Web Development**
-- 👯 I’m looking to collaborate on **Reactjs & Nodejs projects**
-- 🤔 I’m looking for help with **Domain of Open Source contribution**
 - 💬 Ask me about **any core skills**
 - 📫 How to reach me: **rajeshsp05@gmail.com**
-- ⚡ Fun fact **Love to watch movie**
+- ⚡ I love to create different types of **Contents**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__raajesh_)
