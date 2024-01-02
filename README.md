@@ -34,7 +34,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raajesh3108&show_icons=true&hide=issues&rank_icon=github)<br/>
+![](https://github-readme-stats.vercel.app/api?username=raajesh3108&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raajesh3108&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔥 GitHub Streaks:
