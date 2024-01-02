@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Web Development**
 - 💸 Exploring Domains like **Financial Market**, **New Technologies** and **Developing Software Solutions**.
 - ⚡ I love to create different types of **Contents**
-- 🏊 Apart from developing projects, I like to Watch Movies.
-- ☕ I belive, a perfect cup of Tea can be the ultimate solution for any stress.
 - 📫 How to reach me: **rajesh16prajapati@gmail.com**
 
 ## 🌐 Socials:
