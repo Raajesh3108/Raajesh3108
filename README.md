@@ -1,11 +1,14 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center"> Hi 👋🏻, I'm Rajesh Prajapati </br> 
+<h1 align="center"> Hi, <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Rajesh Prajapati </br> 
 </h1>
-<h2 align="center"> A passionate Web Developer!! </h2>
+
+**I am web developer passionate about creating efficient and user-friendly websites. I specialize in both Frontend and Backend Development, constantly learning and adapting to new technologies. Let's build something great together!**
 
 ## 💫 About Me:
+- 🌍 I'm based in **India**
 - 🎓 I’m currently pursuing my **Bachelor's in Computer Science & Engineering**
 - 🌱 I’m currently learning **Web Development**
+- 🚀 I'm currently working on **Front-End Projects**
 - 💸 Exploring Domains like **Financial Market**, **New Technologies** and **Developing Software Solutions**.
 - ⚡ I love to create different types of **Contents**
 - 📫 How to reach me: **rajesh16prajapati@gmail.com**
