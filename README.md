@@ -1,8 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center"> Hi, <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Rajesh Prajapati </br> 
-</h1>
+<h1 align="center"> Hi, <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Rajesh Prajapati </h1>
 
-**I am web developer passionate about creating efficient and user-friendly websites. I specialize in both Frontend and Backend Development, constantly learning and adapting to new technologies. Let's build something great together!**
+I am web developer passionate about creating efficient and user-friendly websites. I specialize in both Frontend and Backend Development, constantly learning and adapting to new technologies. Let's build something great together!
 
 ## 💫 About Me:
 - 🌍 I'm based in **India**
@@ -13,12 +12,14 @@
 - ⚡ I love to create different types of **Contents**
 - 📫 How to reach me: **rajesh16prajapati@gmail.com**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__raajesh_)
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-prajapati-766807254)
+[![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white)](https://github.com/Raajesh3108)
+[![Instagram](https://img.shields.io/badge/Instagram-%23F56040.svg?logo=Instagram&logoColor=white)](https://instagram.com/__raajesh_)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MyselfRaajesh)
 
-## 🚀 Languages and Tools:
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +40,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=raajesh3108&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raajesh3108&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔥 GitHub Streaks:
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> GitHub Streaks:
 ![](https://github-readme-streak-stats.herokuapp.com?user=raajesh3108&theme=dark&border_radius=7)
 
 <br>
