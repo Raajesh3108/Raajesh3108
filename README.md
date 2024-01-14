@@ -1,8 +1,11 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center"> Hi, <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Rajesh Prajapati </h1>
 
-I am web developer passionate about creating efficient and user-friendly websites. I specialize in both Frontend and Backend Development, constantly learning and adapting to new technologies. Let's build something great together!
+<p align="center">
+  I am web developer passionate about creating efficient and user-friendly websites. I specialize in both Frontend and Backend Development, constantly learning and adapting to new technologies. Let's build something great together!
+</p>
 
+<!-- About Section starts here -->
 ## 💫 About Me:
 - 🌍 I'm based in **India**
 - 🎓 I’m currently pursuing my **Bachelor's in Computer Science & Engineering**
@@ -14,10 +17,21 @@ I am web developer passionate about creating efficient and user-friendly website
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-prajapati-766807254)
-[![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white)](https://github.com/Raajesh3108)
-[![Instagram](https://img.shields.io/badge/Instagram-%23F56040.svg?logo=Instagram&logoColor=white)](https://instagram.com/__raajesh_)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MyselfRaajesh)
+<!-- Social icons section -->
+<p>
+  <a href="https://www.linkedin.com/in/rajesh-prajapati-766807254/"><img width="48px" alt="LinkedIN" title="LinkedIN" src="./assets/linkedin.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/Raajesh3108"><img width="48px" alt="Github" title="Github" src="./assets/github.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:rajesh16prajapati@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./assets/gmail.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/MyselfRaajesh"><img width="48px" alt="Twitter" title="Twitter" src="./assets/twitter.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/__raajesh_/?hl=en"><img  width="48px" alt="Instagram" title="Instagram" src="./assets/instagram.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://facebook.com/rajeshprajapati"><img width="48px" alt="Facebook" title="Facebook" src="./assets/facebook.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
