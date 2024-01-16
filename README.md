@@ -19,17 +19,17 @@
 <!-- Social icons section -->
 <p>
   <a href="https://www.linkedin.com/in/rajesh-prajapati-766807254/"><img width="48px" alt="LinkedIN" title="LinkedIN" src="./assets/linkedin.png"></a>
-  &#8287;&#8287;
+  &#8287;
   <a href="https://github.com/Raajesh3108"><img width="48px" alt="Github" title="Github" src="./assets/github.png"></a>
-  &#8287;&#8287;
+  &#8287;
   <a href="mailto:rajesh16prajapati@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./assets/gmail.png"></a>
-  &#8287;&#8287;
+  &#8287;
   <a href="https://twitter.com/MyselfRaajesh"><img width="48px" alt="Twitter" title="Twitter" src="./assets/twitter.png"></a>
-  &#8287;&#8287;
+  &#8287;
   <a href="https://www.instagram.com/__raajesh_/?hl=en"><img  width="48px" alt="Instagram" title="Instagram" src="./assets/instagram.png"></a>
-  &#8287;&#8287;
+  &#8287;
   <a href="https://facebook.com/rajeshprajapati"><img width="48px" alt="Facebook" title="Facebook" src="./assets/facebook.png"></a>
-  &#8287;&#8287;
+  &#8287;
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> Languages and Tools:
