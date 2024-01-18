@@ -34,7 +34,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> Languages and Tools:
 
-![MySkills](https://skills.thijs.gg/icons?i=c,html,css,js,python,bootstrap,mongodb,expressjs,jquery,react,nodejs,tailwind,mysql,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)
+![MySkills](https://skills.thijs.gg/icons?i=c,html,css,js,python,bootstrap,mongodb,expressjs,jquery,react,nodejs,tailwind,mysql,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=6)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> GitHub Stats:
 
