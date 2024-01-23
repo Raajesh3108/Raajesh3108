@@ -11,7 +11,7 @@
 - 🎓 I’m currently pursuing my **Bachelor's in Computer Science & Engineering**
 - 🌱 I’m currently learning **Web Development**
 - 🚀 I'm currently working on **Front-End Projects**
-- 🎖️ Exploring different Domains like **New Technologies** and **Developing Software Solutions**
+- 🎖️ Exploring various Domains like **New Technologies** and **Developing Software Solutions**
 - 📫 How to reach me: **rajesh16prajapati@gmail.com**
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Socials:
