@@ -29,6 +29,6 @@
 - [LinkedIn/rajeshsprajapati](https://www.linkedin.com/in/rajeshsprajapati/)
 - [Website/rajeshprajapati.vercel.app](https://rajeshprajapati.vercel.app)
 - [Twitter/RaajeshDev](https://x.com/RaajeshDev)
-- [Instagram/rajeshsp_](https://instagram.com/rajeshsp_)
+- [Instagram/rajeshp_](https://instagram.com/rajeshp_)
 - [Dev.io/rajeshdev](https://dev.to/rajeshdev)
 - [Meetings at cal.com/rajeshprajapati](https://cal.com/rajeshprajapati)
