@@ -1,56 +1,34 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center"> Hi, <a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Rajesh Prajapati </h1>
+![image](https://github.com/Raajesh3108/Raajesh3108/assets/120726386/654c72f1-fb97-482f-9f3a-732c87c75f6a)
 
-<p align="center">
-  I am web developer passionate about creating efficient and user-friendly websites. I specialize in both Frontend and Backend Development, constantly learning and adapting to new technologies. Let's build something great together!
-</p>
+- ♂ He/Him 📍 Living in Gujarat, India
+- I work as a design-centric-frontend software engineer. Mostly using React, TailwindCSS and Typescript.
+- Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.
+- Wanna catch-up? Schedule a meet with me at [cal.com/rajeshprajapati](https://cal.com/rajeshprajapati)
+- General mails at rajesh16prajapati@gmail.com
 
-<!-- About Section starts here -->
-## 💫 About Me:
-- 🌍 I'm based in **India**
-- 🎓 I’m currently pursuing my **Bachelor's in Computer Science & Engineering**
-- 🌱 I’m currently learning **Web Development**
-- 🚀 I'm currently working on **Front-End Projects**
-- 🎖️ Exploring various Domains like **New Technologies** and **Developing Software Solutions**
-- 📫 How to reach me: **rajesh16prajapati@gmail.com**
+**Work experience**
 
-## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Socials:
+- Worked as a Software Engineering Intern at [Slash Mark IT Startup](https://slashmark.cloud)
+- Contributed actively to [Mobile Car Mechanics](https://github.com/Raajesh3108/Mobile-Car-Mechanics) as a Frontend Developer during [PU'24 Program](https://paruluniversity.ac.in/engineering-technology-research-projects)
+- Worked as a Software Engineering Intern at [Bharat Intern](https://bharatintern.live)
+- Ex-engineering intern at [economize.cloud](https://economize.cloud)
 
-<!-- Social icons section -->
-<p>
-  <a href="https://www.linkedin.com/in/rajesh-prajapati-766807254/"><img width="48px" alt="LinkedIN" title="LinkedIN" src="./assets/linkedin.png"></a>
-  &#8287;
-  <a href="https://github.com/Raajesh3108"><img width="48px" alt="Github" title="Github" src="./assets/github.png"></a>
-  &#8287;
-  <a href="mailto:rajesh16prajapati@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./assets/gmail.png"></a>
-  &#8287;
-  <a href="https://twitter.com/MyselfRaajesh"><img width="48px" alt="Twitter" title="Twitter" src="./assets/twitter.png"></a>
-  &#8287;
-  <a href="https://www.instagram.com/__raajesh_/?hl=en"><img  width="48px" alt="Instagram" title="Instagram" src="./assets/instagram.png"></a>
-  &#8287;
-  <a href="https://facebook.com/rajeshprajapati"><img width="48px" alt="Facebook" title="Facebook" src="./assets/facebook.png"></a>
-  &#8287;
-</p>
+**Project and experiments**
 
-## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> Languages and Tools:
+- [Mobile Car Mechanics](https://github.com/Raajesh3108/Mobile-Car-Mechanics) - Worked on an automotive management platform concept, focusing on building the design system/UI kit for the frontend, called Mechanism.
+- [Food Delivery App](https://github.com/Raajesh3108/Food-Delivery-App) and [URL Shortner](https://github.com/Raajesh3108/URL-Shortener) - Created these projects as assignments for the Design Engineering Role.
+- [Personal Website](https://github.com/Raajesh3108/Personal-Website) - Developed and deployed a fully open-source website hosted on [Vercel](https://vercel.com/docs) - Using NextJS and React.
+- [Data Analysis](https://github.com/Raajesh3108/Tailwind-Web-DataAnalytics) - Designed an open-source web app dedicated to data analysis and visualization deployed on [Netlify](https://docs.netlify.com) - Utilizing Tailwind CSS and JavaScript frameworks.
 
-![MySkills](https://skills.thijs.gg/icons?i=c,html,css,js,python,ts,bootstrap,mongodb,expressjs,jquery,react,nodejs,tailwind,vue,angular,mysql,docker,md,git,github,gitlab,vscode,vercel,netlify,aws,jest,postman,styledcomponents,sass,stackoverflow&perline=8)
+**Writings**
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> GitHub Stats:
+- I have written a tutorial blog on understanding and getting started with Design Systems. Give it a read [here](https://www.linkedin.com/in/rajeshsprajapati/recent-activity/articles/)
 
-![Rajesh's github stats](https://bad-apple-github-readme.vercel.app/api?username=raajesh3108\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+**Socials**
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raajesh3108&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Rajesh's current streak](https://github-readme-streak-stats.herokuapp.com?user=raajesh3108&theme=dark&border_radius=7)
-
-<!-- <br>
-  <h2 align="center"> Made with ❤️ in India </h2>
-<br>
-
-<h1 align="center"> Thanks for visiting my GitHub Profile!! </br>
-</h1>
-  <p align="center"> Profile Views: </p>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/raajesh3108/count.svg">
-  </p> -->
+- [LinkedIn/rajeshsprajapati](https://www.linkedin.com/in/rajeshsprajapati/)
+- [Website/rajeshprajapati.vercel.app](https://rajeshprajapati.vercel.app)
+- [Twitter/RaajeshDev](https://x.com/RaajeshDev)
+- [Instagram/rajeshsp_](https://instagram.com/rajeshsp_)
+- [Dev.io/rajeshdev](https://dev.to/rajeshdev)
+- [Meetings at cal.com/rajeshprajapati](https://cal.com/rajeshprajapati)
