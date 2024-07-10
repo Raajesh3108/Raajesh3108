@@ -1,7 +1,7 @@
 ![image](https://github.com/Raajesh3108/Raajesh3108/assets/120726386/654c72f1-fb97-482f-9f3a-732c87c75f6a)
 
 - ♂ He/Him 📍 Living in Gujarat, India
-- I work as a design-centric-frontend software engineer. Mostly using React, TailwindCSS and Typescript.
+- I work as a design-centric, front-end-heavy software engineer. Mostly using React, TailwindCSS and Typescript.
 - Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.
 - Wanna catch-up? Schedule a meet with me at [cal.com/rajeshprajapati](https://cal.com/rajeshprajapati)
 - General mails at rajesh16prajapati@gmail.com
@@ -16,9 +16,9 @@
 **Project and experiments**
 
 - [Mobile Car Mechanics](https://github.com/Raajesh3108/Mobile-Car-Mechanics) - Worked on an automotive management platform concept, focusing on building the design system/UI kit for the frontend, called Mechanism.
-- [Food Delivery App](https://github.com/Raajesh3108/Food-Delivery-App) and [URL Shortner](https://github.com/Raajesh3108/URL-Shortener) - Created these projects as assignments for the Design Engineering Role.
+- [Food Delivery App](https://github.com/Raajesh3108/React-FoodDelivery-App) and [URL Shortner](https://github.com/Raajesh3108/URL-Shortener) - Created these projects as assignments for the Design Engineering Role.
 - [Personal Website](https://github.com/Raajesh3108/Personal-Website) - Developed and deployed a fully open-source website hosted on [Vercel](https://vercel.com/docs) - Using NextJS and React.
-- [Data Analysis](https://github.com/Raajesh3108/Tailwind-Web-DataAnalytics) - Designed an open-source web app dedicated to data analysis and visualization deployed on [Netlify](https://docs.netlify.com) - Utilizing Tailwind CSS and JavaScript frameworks.
+- [Data Analytics](https://github.com/Raajesh3108/Web-DataAnalytics-tool-using-Tailwind) - Designed an open-source web-based data analytics tool dedicated to data analysis and visualization deployed on [Netlify](https://docs.netlify.com) - Utilizing Tailwind CSS and JavaScript frameworks.
 
 **Writings**
 
@@ -28,7 +28,7 @@
 
 - [LinkedIn/rajeshsprajapati](https://www.linkedin.com/in/rajeshsprajapati/)
 - [Website/rajeshprajapati.vercel.app](https://rajeshprajapati.vercel.app)
-- [Twitter/RaajeshDev](https://x.com/RaajeshDev)
+- [Twitter/rajeshsp_](https://x.com/rajeshsp_)
 - [Instagram/rajeshp_](https://instagram.com/rajeshp_)
 - [Dev.io/rajeshdev](https://dev.to/rajeshdev)
 - [Meetings at cal.com/rajeshprajapati](https://cal.com/rajeshprajapati)
